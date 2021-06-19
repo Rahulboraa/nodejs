@@ -1,0 +1,36 @@
+
+[
+{
+    "name":"Bruce",
+    "last name":"Rogers",
+    "is Avenger":"True",
+    "friends":["Tony","Bruce","Natasha"],
+    "age":26,
+    "address":{
+        "city":"New york",
+        "state":"Manhattan"
+    }
+},
+{
+    "name":"Peter",
+    "last name":"Rogers",
+    "is Avenger":"True",
+    "friends":["Tony","Bruce","Natasha"],
+    "age":23,
+    "address":{
+        "city":"New york",
+        "state":"Manhattan"
+    }
+},
+{
+    "name":"Steve",
+    "last name":"Rogers",
+    "is Avenger":"True",
+    "friends":["Tony","Bruce","Natasha"],
+    "age":45,
+    "address":{
+        "city":"New york",
+        "state":"Manhattan"
+    }
+}
+]
